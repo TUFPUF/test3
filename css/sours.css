@@ -1,0 +1,72 @@
+
+.logo10 {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: -10rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media screen and (max-width: 992px) {
+    .logo10 {
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-top: -16rem;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+
+.text {
+    color: aliceblue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+max-width: 1000px;
+font-family: Montserrat;
+font-size: 20;
+margin-bottom: 15px;
+}
+@media screen and (max-width: 992px) {
+    .text {
+        color: aliceblue;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    max-width: 1000px;
+    font-family: Montserrat;
+    font-size: 10;
+    margin-bottom: 15px;
+    padding-left: 10%;
+    padding-right: 10%;
+    }
+}
+.top{
+    margin-top: 2rem;
+} 
+.container1 {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.video {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -10rem;
+  }
+  @media screen and (max-width: 992px) {
+    .video {
+        width: 70%;
+        display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -17rem;
+  }
+}
